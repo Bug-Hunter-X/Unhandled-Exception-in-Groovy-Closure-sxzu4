@@ -1,0 +1,2 @@
+# Unhandled Exception in Groovy Closure
+This example showcases a common error in Groovy where an exception thrown within a closure is not properly handled by the calling method. The program demonstrates how to improve exception handling by using try-catch blocks.
